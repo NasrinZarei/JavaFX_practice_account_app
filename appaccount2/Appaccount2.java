@@ -32,7 +32,7 @@ public class Appaccount2 extends Application {
         //Creates a label with the text "Name : "
         Label nameLabel = formGenerator.createLabel("Name : ");
         //Creates a label with the text "Adress : ".
-        Label addressLabel = formGenerator.createLabel("Adress : ");
+        Label addressLabel = formGenerator.createLabel("Address : ");
         // This object is a ComboBox 
         ComboBox<Integer> customerIDComboBox = formGenerator.createComboBox();
         // This code creates two text fields, one for the name and one for the address.
