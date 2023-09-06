@@ -22,10 +22,10 @@ This is a JavaFX application that allows users to create, save, and search for c
 - To search for a customer record, enter the customer ID in the text field and click on the "Search" button.
 
 ## Classes
-- **App: The main class that launches the application.**
-- **Customer: A class that represents a customer.**
-- **FormGenerator: A class that generates the user interface for the application.**
-- **EventController: A class that handles the events in the user interface, such as clicking on buttons.**
+- **App:** The main class that launches the application.
+- **Customer:** A class that represents a customer.
+- **FormGenerator:** A class that generates the user interface for the application.
+- **EventController:** A class that handles the events in the user interface, such as clicking on buttons.
 
 ## Challenges
 - Figuring out how to use the HashMap framework
